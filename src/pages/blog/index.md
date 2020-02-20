@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: News and blog
 menus:
   secondary:
-    title: Blog
+    title: 'News and Blog '
     weight: 2
 template: blog
 ---
+
