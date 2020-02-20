@@ -7,7 +7,10 @@ sections:
     content: >-
       Never leave customers waiting again when they have questions or need help
       finding the right product.
-    image: /images/ecommerce-featured-image-mobile-1200x1520.png
+
+
+      ![te](/images/asset 3.png)
+    image: /images/hero.png
     section_id: hero
     title: Serve customers and employees better with BotXO AI chatbots for businesses
     type: section_hero
