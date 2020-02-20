@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "main menu",
+      "title": "NLU",
+      "url": "/NLU",
+      "weight": 3
+    }
+  ]
+}
