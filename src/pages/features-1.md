@@ -8,23 +8,16 @@ sections:
         url: '#'
     bg: gray
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      ![why it matters for your professsion]( "Why it matters to your
+      profession")
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+      Our platform empowers brands to have specialized chatbots provide instant
+      support and personalised shopping through conversational interfaces. Serve
+      your users, whenever and wherever they want.
+    image: /images/asset 44.png
     section_id: features
-    title: The Best Features of Your Services
+    title: BotXO is Conversational AI as a Service
     type: section_content
   - actions:
       - label: Get Started
