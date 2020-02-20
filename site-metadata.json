@@ -1,6 +1,6 @@
 {
   "title": "BotXo",
-  "palette": "blue",
+  "palette": "purple",
   "header": {
     "title": "4 bea",
     "logo_img": "/images/logo.svg",
@@ -25,7 +25,7 @@
     "content": "&copy; Marketing team & Bea personally. All rights reserved.",
     "links": [
       {
-        "text": "Made with ❤️  ",
+        "text": "Made with ❤️ 4 Bea  ",
         "url": "https://twitter.com/webmaeistro",
         "new_window": true
       }
