@@ -1,7 +1,7 @@
 {
-  "name": "stackbit-azimuth-theme",
-  "description": "Stackbit Azimuth Theme",
-  "version": "0.0.1",
+  "name": "gatsby-4bea-marketers-delight",
+  "description": "marketers delight",
+  "version": "0.1.1",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
@@ -10,7 +10,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "@stackbit/gatsby-plugin-menus": "0.0.4",
+    "gatsby-plugin-universal-menus": "^0.1.7",
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
     "gatsby": "2.3.30",
