@@ -3,7 +3,7 @@
   "palette": "purple",
   "header": {
     "title": "4 bea",
-    "logo_img": "/images/logo.svg",
+    "logo_img": "/images/img_20191025_180512.jpg",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "4 bea - a gatsby theme SaaS marketeers delight. :)  I give you Gatsby with complete content control and a built in publishing hook ",
-    "logo_img": "/images/avatar.webp",
+    "logo_img": "/images/img_20191025_180512.jpg",
     "has_social": true,
     "content": "&copy; Marketing team & Bea personally. All rights reserved.",
     "links": [
